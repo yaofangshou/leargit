@@ -1,2 +1,3 @@
-﻿/usr/bin/env
+﻿otheruser:Bob
+/usr/bin/env
 Git stash.
