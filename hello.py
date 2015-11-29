@@ -1,1 +1,2 @@
-﻿Git stash.
+﻿/usr/bin/env
+Git stash.
